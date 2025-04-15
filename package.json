@@ -1,0 +1,26 @@
+{
+  "name": "ai-comparator",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@types/node": "20.11.30",
+    "autoprefixer": "10.4.14",
+    "chart.js": "4.4.1",
+    "next": "14.1.0",
+    "postcss": "8.4.21",
+    "react": "18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.4.1",
+    "typescript": "5.4.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.20",
+    "@types/react-dom": "^18.3.6"
+  }
+}
